@@ -19,6 +19,13 @@ A family feud game featuring a moderator view and a contestant view. Families co
   * Display feedback to the families if the answer is correct or incorrect.
   * Ability to skip a question and go to the next for funnier question.
 
+## Gallery
+
+How it Works!    
+:-------------------------:
+[![Watch the video](https://github.com/dannyjanani/home/blob/master/src/components/Projects%20Page/Images/Family-Feud-Thumbnail.png)](https://vimeo.com/460352851)
+
+https://vimeo.com/460352851
 ## Skills Used
   
 * Software:
