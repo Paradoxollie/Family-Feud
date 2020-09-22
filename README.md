@@ -25,7 +25,6 @@ How it Works!
 :-------------------------:
 [![Watch the video](https://github.com/dannyjanani/home/blob/master/src/components/Projects%20Page/Images/Family-Feud-Thumbnail.png)](https://vimeo.com/460352851)
 
-https://vimeo.com/460352851
 ## Skills Used
   
 * Software:
